@@ -1,16 +1,17 @@
-# pks_shop_upd
+# Программирование корпоративных систем
+Дисциплина: **Программирование корпоративных систем** <br>
+Семестр: 5 <br>
+Выполнил студент **ЭФБО-04-22 Медведев А. А.** <br>
 
-A new Flutter project.
+# Содержание работы
 
-## Getting Started
+Практическая работа №15
 
-This project is a starting point for a Flutter application.
+Добавлен чат с продавцом в ЛК, также реализовал отдельное приложение для продавца, чтобы отвечать покупателям на firebase.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+[SVID_20241217_000049_1.webm](https://github.com/user-attachments/assets/396e38c1-403b-4c5a-b6a5-b487752a45ab)
+
+[SVID_20241216_235933_1.webm](https://github.com/user-attachments/assets/abebae17-e2c1-4876-ae79-65aacfb8cd7c)
